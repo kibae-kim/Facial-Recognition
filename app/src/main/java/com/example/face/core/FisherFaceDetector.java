@@ -8,6 +8,7 @@ import org.opencv.imgproc.Imgproc;
 import org.opencv.android.Utils;
 import java.util.*;
 
+
 /***********************************
  * FisherFaceDetector (public)
  ***********************************/
